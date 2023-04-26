@@ -108,4 +108,13 @@ body {
   background-color: var(--color-white);
   padding: 1em;
   border-radius: 1em;
+  text-align: center;
+}
+
+.qr-code__title {
+  color: var(--color-dark-blue);
+}
+
+.qr-code__text {
+  color: var(--color-grayish-blue);
 }
