@@ -110,6 +110,7 @@ body {
   border-radius: 1.2em;
   text-align: center;
   max-width: 315px;
+  line-height: 1.2;
 }
 
 .qr-code__title {
