@@ -107,8 +107,9 @@ body {
 .qr-code {
   background-color: var(--color-white);
   padding: 1em;
-  border-radius: 1em;
+  border-radius: 1.2em;
   text-align: center;
+  max-width: 315px;
 }
 
 .qr-code__title {
@@ -117,4 +118,9 @@ body {
 
 .qr-code__text {
   color: var(--color-grayish-blue);
+}
+
+.qr-code__image {
+  width: 286px;
+  border-radius: 0.6em;
 }
