@@ -121,6 +121,5 @@ body {
 }
 
 .qr-code__image {
-  width: 286px;
   border-radius: 0.6em;
 }
